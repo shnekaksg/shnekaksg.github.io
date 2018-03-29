@@ -1,0 +1,8 @@
+self.addEventListener('install',function (event)
+{
+// do stuff during install
+});
+self.addEventListener('install',function (event)
+{
+// do stuff during install
+});
